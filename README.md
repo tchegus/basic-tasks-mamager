@@ -2,7 +2,7 @@
 Basic-tasks-manager is task tracker project used to track and manage your tasks
 
 # Project url
-https://github.com/tchegus/basic-tasks-manager
+https://roadmap.sh/projects/task-tracker
 
 # Features
 Add a Task: Add a new task with a description.
